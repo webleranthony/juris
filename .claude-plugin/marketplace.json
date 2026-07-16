@@ -1,0 +1,14 @@
+{
+  "name": "juris",
+  "owner": {
+    "name": "Roberto Grécia Bessa (OAB/RO 7865-A)"
+  },
+  "plugins": [
+    {
+      "name": "tjro-jurisprudencia",
+      "source": ".",
+      "description": "Busca de jurisprudência do Tribunal de Justiça de Rondônia (portal público JURIS), direto no Claude.",
+      "version": "1.1.0"
+    }
+  ]
+}
